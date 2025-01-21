@@ -1,6 +1,6 @@
 const form = document.getElementById('form');
-const apiToken = 'YOUR_TELEGRAM_API';
-const chatId = 'YOUR_CHAT_ID';
+const apiToken = '7706887140:AAFxktByuSSOrQlRLjZvEPW2NdE1DHJ3FPw';
+const chatId = '5733106911';
 
 form.addEventListener('submit', (e) => {
   e.preventDefault();
